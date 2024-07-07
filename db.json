@@ -1,320 +1,256 @@
 {
-  "generate_mandate": [
+  "reportData1": [
     {
-      "id": 567,
-      "traderMandateId": 567,
-      "traderComitId": null,
-      "traderName": "Vikas",
-      "oldLineOfBusiness": null,
-      "newLineOfBusiness": null,
-      "oldDesk": null,
-      "newDesk": null,
-      "oldVolcker Indicator": null,
-      "newVolcker Indicator": null,
-      "oldL1Supervisor": null,
-      "newL1Supervisor": null,
-      "oldL1SupervisorName": null,
-      "newL1SupervisorName": null,
-      "oldL2Supervisor": null,
-      "newL2Supervisor": null,
-      "oldL2SupervisorName": null,
-      "newL2SupervisorName": null,
-      "oldL3Supervisor": null,
-      "newL3Supervisor": null,
-      "oldL3SupervisorName": null,
-      "newL3SupervisorName": null,
-      "newRiskLimits": null,
-      "oldRiskLimits": null,
-      "newRemoteLogIn": null,
-      "oldRemoteLogIn": null,
-      "newRemoteBooking": null,
-      "oldRemoteBooking": null,
-      "newAfterHours Trading": null,
-      "oldAfterHours Trading": null,
-      "newLocation": "PUNE",
-      "oldLocation": "Chennai",
-      "newRegion": null,
-      "oldRegion": null,
-      "newRegisteredLicense": null,
-      "oldRegisteredLicense": null,
-      "newRegionalSupervisor": null,
-      "oldRegionalSupervisor": null,
-      "newRegionalSupervisorName": null,
-      "oldRegionalSupervisorName": null,
-      "newMarketRiskHead": null,
-      "oldMarketRiskHead": null,
-      "newMarketRiskHeadName": null,
-      "oldMarketRiskHeadName": null,
-      "newPrimaryDeskOrBackupDesk": null,
-      "oldPrimaryDeskOrBackupDesk": null,
-      "newTraderStatus": null,
-      "oldTraderStatus": null,
-      "newManagementActionTrigger": null,
-      "oldManagementActionTrigger": null,
-      "newAdditionalNotes": null,
-      "oldAdditionalNotes": null,
-      "traderMandateAssetDetails": [
+      "date": "19/06/2024",
+      "reportType": "FED_IN_DAILY_VOL",
+      "hourlyVolumes": [
         {
-          "id": 1707,
-          "traderMandateId": 567,
-          "oldAssetClass": null,
-          "newAssetClass": null,
-          "oldProduct": null,
-          "newProduct": null,
-          "oldSubProduct": null,
-          "newSubProduct": null,
-          "oldTenor": "1d",
-          "newTenor": "10y",
-          "oldTransactionSettlementCurrency": null,
-          "newTransactionSettlementCurrency": null,
-          "oldRole": null,
-          "newRole": null,
-          "oldBookGroup": null,
-          "newBookGroup": null,
-          "oldBookLegalEntity": null,
-          "newBookLegalEntity": null,
-          "oldIsHidden": null,
-          "newIsHidden": null,
-          "oldAssetDetailStatus": null,
-          "newAssetDetailStatus": null,
-          "oldTraderMandateCurrencyBucketId": null,
-          "newTraderMandateCurrencyBucketId": null,
-          "oldBookFamilyId": null,
-          "newBookFamilyId": null,
-          "assetChangeStatus": "Modified"
-        }
-      ],
-      "traderMandateMatDetails": [
+          "amount": 0,
+          "count": 0,
+          "time": "00"
+        },
         {
-          "id": 1,
-          "traderMandateId": 567,
-          "oldRegion": "PUNE",
-          "newRegion": "MUMBAI",
-          "oldPnl": 123,
-          "newPnl": 1230,
-          "oldNetFxDelta": 345,
-          "newNetFxDelta": 3450,
-          "oldNetDV01": 567,
-          "newNetDV01": 5670,
-          "oldNetBasis": 789,
-          "newNetBasis": 7890,
-          "oldIsHidden": null,
-          "newIsHidden": null,
-          "oldMatDetailsStatus": null,
-          "newMatDetailsStatus": null,
-          "matChangeStatus": "Modified"
+          "amount": 0,
+          "count": 7,
+          "time": "01"
+        },
+        {
+          "amount": 0,
+          "count": 11,
+          "time": "02"
+        },
+        {
+          "amount": 0,
+          "count": 5,
+          "time": "03"
+        },
+        {
+          "amount": 0,
+          "count": 3,
+          "time": "04"
+        },
+        {
+          "amount": 0,
+          "count": 6,
+          "time": "05"
+        },
+        {
+          "amount": 0,
+          "count": 8,
+          "time": "06"
+        },
+        {
+          "amount": 0,
+          "count": 12,
+          "time": "07"
+        },
+        {
+          "amount": 0,
+          "count": 15,
+          "time": "08"
+        },
+        {
+          "amount": 0,
+          "count": 17,
+          "time": "09"
+        },
+        {
+          "amount": 0,
+          "count": 13,
+          "time": "10"
+        },
+        {
+          "amount": 0,
+          "count": 9,
+          "time": "11"
+        },
+        {
+          "amount": 0,
+          "count": 14,
+          "time": "12"
+        },
+        {
+          "amount": 0,
+          "count": 16,
+          "time": "13"
+        },
+        {
+          "amount": 0,
+          "count": 10,
+          "time": "14"
+        },
+        {
+          "amount": 0,
+          "count": 18,
+          "time": "15"
+        },
+        {
+          "amount": 0,
+          "count": 20,
+          "time": "16"
+        },
+        {
+          "amount": 0,
+          "count": 21,
+          "time": "17"
+        },
+        {
+          "amount": 0,
+          "count": 22,
+          "time": "18"
+        },
+        {
+          "amount": 0,
+          "count": 23,
+          "time": "19"
+        },
+        {
+          "amount": 0,
+          "count": 25,
+          "time": "20"
+        },
+        {
+          "amount": 0,
+          "count": 28,
+          "time": "21"
+        },
+        {
+          "amount": 0,
+          "count": 30,
+          "time": "22"
+        },
+        {
+          "amount": 0,
+          "count": 32,
+          "time": "23"
         }
       ]
-    },
+    }
+  ],
+  "reportData2": [
     {
-      "id": 568,
-      "traderMandateId": 568,
-      "traderComitId": null,
-      "traderName": null,
-      "oldLineOfBusiness": null,
-      "newLineOfBusiness": null,
-      "oldDesk": "QA Desk 85 - SV",
-      "newDesk": "TESTING LOCALLY",
-      "oldVolcker Indicator": null,
-      "newVolcker Indicator": null,
-      "oldL1Supervisor": null,
-      "newL1Supervisor": null,
-      "oldL1SupervisorName": null,
-      "newL1SupervisorName": null,
-      "oldL2Supervisor": null,
-      "newL2Supervisor": null,
-      "oldL2SupervisorName": null,
-      "newL2SupervisorName": null,
-      "oldL3Supervisor": null,
-      "newL3Supervisor": null,
-      "oldL3SupervisorName": null,
-      "newL3SupervisorName": null,
-      "newRiskLimits": null,
-      "oldRiskLimits": null,
-      "newRemoteLogIn": null,
-      "oldRemoteLogIn": null,
-      "newRemoteBooking": null,
-      "oldRemoteBooking": null,
-      "newAfterHours Trading": null,
-      "oldAfterHours Trading": null,
-      "newLocation": "PUNE",
-      "oldLocation": "Chennai",
-      "newRegion": null,
-      "oldRegion": null,
-      "newRegisteredLicense": null,
-      "oldRegisteredLicense": null,
-      "newRegionalSupervisor": null,
-      "oldRegionalSupervisor": null,
-      "newRegionalSupervisorName": null,
-      "oldRegionalSupervisorName": null,
-      "newMarketRiskHead": null,
-      "oldMarketRiskHead": null,
-      "newMarketRiskHeadName": null,
-      "oldMarketRiskHeadName": null,
-      "newPrimaryDeskOrBackupDesk": null,
-      "oldPrimaryDeskOrBackupDesk": null,
-      "newTraderStatus": null,
-      "oldTraderStatus": null,
-      "newManagementActionTrigger": null,
-      "oldManagementActionTrigger": null,
-      "newAdditionalNotes": null,
-      "oldAdditionalNotes": null,
-      "traderMandateAssetDetails": [
+      "date": "20/06/2024",
+      "reportType": "FED_IN_DAILY_VOL",
+      "hourlyVolumes": [
         {
-          "id": 1708,
-          "traderMandateId": 568,
-          "oldAssetClass": null,
-          "newAssetClass": null,
-          "oldProduct": null,
-          "newProduct": null,
-          "oldSubProduct": null,
-          "newSubProduct": null,
-          "oldTenor": null,
-          "newTenor": null,
-          "oldTransactionSettlementCurrency": null,
-          "newTransactionSettlementCurrency": null,
-          "oldRole": null,
-          "newRole": null,
-          "oldBookGroup": null,
-          "newBookGroup": null,
-          "oldBookLegalEntity": null,
-          "newBookLegalEntity": null,
-          "oldIsHidden": null,
-          "newIsHidden": null,
-          "oldAssetDetailStatus": null,
-          "newAssetDetailStatus": null,
-          "oldTraderMandateCurrency BucketId": null,
-          "newTraderMandateCurrency BucketId": null,
-          "oldBookFamilyId": null,
-          "newBookFamilyId": null,
-          "assetChangeStatus": "Modified"
-        }
-      ],
-      "traderMandateMatDetails": [
+          "amount": 0,
+          "count": 1,
+          "time": "00"
+        },
         {
-          "id": 2,
-          "traderMandateId": 568,
-          "oldRegion": "MUMBAI",
-          "newRegion": "GOA",
-          "oldPnl": 123,
-          "newPn1": 1230,
-          "oldNetFxDelta": 345,
-          "newNetFxDelta": 3450,
-          "oldNetDV01": 567,
-          "newNetDV01": 5670,
-          "oldNetBasis": 789,
-          "newNetBasis": 7890,
-          "oldIsHidden": null,
-          "newIsHidden": null,
-          "oldMatDetailsStatus": null,
-          "newMatDetailsStatus": null,
-          "matChangeStatus": "Modified"
-        }
-      ]
-    },
-    {
-      "id": 569,
-      "traderMandateId": 569,
-      "traderComitId": null,
-      "traderName": "Rahul",
-      "oldLineOfBusiness": null,
-      "newLineOfBusiness": "Equities",
-      "oldDesk": "Old Desk 23",
-      "newDesk": "Equity Trading",
-      "oldVolcker Indicator": "Yes",
-      "newVolcker Indicator": "No",
-      "oldL1Supervisor": "L1S-1",
-      "newL1Supervisor": "L1S-2",
-      "oldL1SupervisorName": "John Doe",
-      "newL1SupervisorName": "Jane Doe",
-      "oldL2Supervisor": "L2S-1",
-      "newL2Supervisor": "L2S-2",
-      "oldL2SupervisorName": "Michael Smith",
-      "newL2SupervisorName": "Sarah Johnson",
-      "oldL3Supervisor": "L3S-1",
-      "newL3Supervisor": "L3S-2",
-      "oldL3SupervisorName": "Alice Brown",
-      "newL3SupervisorName": "David Wilson",
-      "newRiskLimits": "High",
-      "oldRiskLimits": "Medium",
-      "newRemoteLogIn": "Allowed",
-      "oldRemoteLogIn": "Not Allowed",
-      "newRemoteBooking": "Allowed",
-      "oldRemoteBooking": "Not Allowed",
-      "newAfterHours Trading": "Allowed",
-      "oldAfterHours Trading": "Not Allowed",
-      "newLocation": "Bangalore",
-      "oldLocation": "Delhi",
-      "newRegion": "South",
-      "oldRegion": "North",
-      "newRegisteredLicense": "License123",
-      "oldRegisteredLicense": "License456",
-      "newRegionalSupervisor": "R1S-2",
-      "oldRegionalSupervisor": "R1S-1",
-      "newRegionalSupervisorName": "Chris Martin",
-      "oldRegionalSupervisorName": "Emma Watson",
-      "newMarketRiskHead": "MRH-2",
-      "oldMarketRiskHead": "MRH-1",
-      "newMarketRiskHeadName": "Olivia Lee",
-      "oldMarketRiskHeadName": "Liam Taylor",
-      "newPrimaryDeskOrBackupDesk": "Primary",
-      "oldPrimaryDeskOrBackupDesk": "Backup",
-      "newTraderStatus": "Active",
-      "oldTraderStatus": "Inactive",
-      "newManagementActionTrigger": "Trigger123",
-      "oldManagementActionTrigger": "Trigger456",
-      "newAdditionalNotes": "Promoted to senior trader",
-      "oldAdditionalNotes": "Junior trader",
-      "traderMandateAssetDetails": [
+          "amount": 0,
+          "count": 6,
+          "time": "01"
+        },
         {
-          "id": 1709,
-          "traderMandateId": 569,
-          "oldAssetClass": "Bonds",
-          "newAssetClass": "Stocks",
-          "oldProduct": "Government Bonds",
-          "newProduct": "Corporate Stocks",
-          "oldSubProduct": "Treasury Bonds",
-          "newSubProduct": "Tech Stocks",
-          "oldTenor": "5y",
-          "newTenor": "15y",
-          "oldTransactionSettlementCurrency": "USD",
-          "newTransactionSettlementCurrency": "INR",
-          "oldRole": "Trader",
-          "newRole": "Senior Trader",
-          "oldBookGroup": "BG-1",
-          "newBookGroup": "BG-2",
-          "oldBookLegalEntity": "Entity1",
-          "newBookLegalEntity": "Entity2",
-          "oldIsHidden": "No",
-          "newIsHidden": "Yes",
-          "oldAssetDetailStatus": "Active",
-          "newAssetDetailStatus": "Modified",
-          "oldTraderMandateCurrencyBucketId": 1,
-          "newTraderMandateCurrencyBucketId": 2,
-          "oldBookFamilyId": 3,
-          "newBookFamilyId": 4,
-          "assetChangeStatus": "UnModified"
-        }
-      ],
-      "traderMandateMatDetails": [
+          "amount": 0,
+          "count": 10,
+          "time": "02"
+        },
         {
-          "id": 3,
-          "traderMandateId": 569,
-          "oldRegion": "North",
-          "newRegion": "South",
-          "oldPnl": 1000,
-          "newPnl": 2000,
-          "oldNetFxDelta": 200,
-          "newNetFxDelta": 400,
-          "oldNetDV01": 50,
-          "newNetDV01": 100,
-          "oldNetBasis": 75,
-          "newNetBasis": 150,
-          "oldIsHidden": "No",
-          "newIsHidden": "Yes",
-          "oldMatDetailsStatus": null,
-          "newMatDetailsStatus": null,
-          "matChangeStatus": "Modified"
+          "amount": 0,
+          "count": 4,
+          "time": "03"
+        },
+        {
+          "amount": 0,
+          "count": 2,
+          "time": "04"
+        },
+        {
+          "amount": 0,
+          "count": 7,
+          "time": "05"
+        },
+        {
+          "amount": 0,
+          "count": 9,
+          "time": "06"
+        },
+        {
+          "amount": 0,
+          "count": 11,
+          "time": "07"
+        },
+        {
+          "amount": 0,
+          "count": 14,
+          "time": "08"
+        },
+        {
+          "amount": 0,
+          "count": 16,
+          "time": "09"
+        },
+        {
+          "amount": 0,
+          "count": 12,
+          "time": "10"
+        },
+        {
+          "amount": 0,
+          "count": 8,
+          "time": "11"
+        },
+        {
+          "amount": 0,
+          "count": 13,
+          "time": "12"
+        },
+        {
+          "amount": 0,
+          "count": 15,
+          "time": "13"
+        },
+        {
+          "amount": 0,
+          "count": 9,
+          "time": "14"
+        },
+        {
+          "amount": 0,
+          "count": 17,
+          "time": "15"
+        },
+        {
+          "amount": 0,
+          "count": 19,
+          "time": "16"
+        },
+        {
+          "amount": 0,
+          "count": 20,
+          "time": "17"
+        },
+        {
+          "amount": 0,
+          "count": 21,
+          "time": "18"
+        },
+        {
+          "amount": 0,
+          "count": 24,
+          "time": "19"
+        },
+        {
+          "amount": 0,
+          "count": 26,
+          "time": "20"
+        },
+        {
+          "amount": 0,
+          "count": 29,
+          "time": "21"
+        },
+        {
+          "amount": 0,
+          "count": 31,
+          "time": "22"
+        },
+        {
+          "amount": 0,
+          "count": 33,
+          "time": "23"
         }
       ]
     }
